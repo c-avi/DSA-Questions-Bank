@@ -33,7 +33,8 @@ N = 4, k = 2
 Output:
 Copy
 Edit
-10*/
+10
+*/
 #include <iostream>
 #include <vector>
 using namespace std;
